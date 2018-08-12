@@ -1,5 +1,9 @@
 package org.nit.upendra.spring.beans;
 
+/**
+ * @author SriSai-PC
+ *
+ */
 public class Trade {
 
 	private String tradetype;
